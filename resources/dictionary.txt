@@ -1,0 +1,246 @@
+Abfälschen: desviar a bola
+abgeben (passen): tocar a bola
+Ablöse: taxa de transferência
+Abpfeifen: soprar o apito final
+de Abpfiff: apito final
+Abprallen: bater na trave
+der Abpraller: rebote
+Abschlag, der Abstoß: tiro de meta
+Abschluss: finalização
+das Abseits: impedimento
+Abseitsfalle: linha de impedimento
+Abseitsstellung: posição de impedimento
+Abseitstor: gol impedido
+Abseitsverdächtig: suspeita de impedimento
+Absperren: isolar
+Absperrkette: isolamento
+abspielen: tocar a bola para um jogador do próprio time
+der Abstauber, Abstaubertor: (marcar) à queima-roupa, gol à queima-roupa
+Absteigen: ser rebaixado
+Absteiger: rebaixado
+der Abstieg: rebaixamento
+Abstiegsgefährdet: perigo de rebaixamento
+Abstiegszone: zona de rebaixamento
+Abwehr: defesa
+Abwehren: defender
+Abwehrfehler: erro defensivo
+Abwehrspieler: zagueiro
+Abwehrstark: defesa forte
+Anführen (die Tabelle): líder (tabela)
+Angreifen: atacar
+Angriff: ataque
+Angriffsfussball,
+Offensivfussball: futebol ofensivo
+Angriffsspiel: atacante
+Angstgegner: freguês
+Anhänger: torcedor
+Anpfiff, Anstoß: pontapé inicial
+Antrittschnell: ágil
+Armbinde: braçadeira
+Aufholen: saldo de gols
+Aufholjagd: virando o jogo
+Aufsteigen: promovido
+Aufsteiger: time promovido
+Aufstellung, Mannschaftsaufstellung: escalação
+Aufstieg: promoção
+Auftaktspiel: jogo de estreia
+Aufwärmen: se aquecer
+Ausgleich, Augleichstor: empatar, gol de empate
+Ausrüstung: uniforme
+Ausscheiden: eliminado
+Außennetz: trave
+Außenstürmer (linker/rechter), Linksaußen, Rechtsaußen: ponta (esquerda/direita), ponta esquerdo e ponta direito
+Außenverteidiger: zagueiro
+Austragen: sediar
+Austragungsort, Austragungsstätte: sede
+Ausverkauftes: lotado
+Auswärtssieg: vitória fora de casa
+Auswärtsspiel: jogo fora de casa
+Auswärtstor: gol fora de casa
+Auswechseln: alteração
+Auswechselspieler: jogador reserva
+Ball: bola
+Ballbesitz: posse de bola
+Ballführung, Ballbeherrschung, Ballannahme: controle de bola
+Bananenflanke, Bananenschuss: trivela
+Bandenwerbung: perímetro de publicidade
+Bank, Reservebank: banco de reservas
+Befreiungsschlag: chute de fora da área
+Beinschuss: caneta
+Berufung: convocação para seleção nacional
+Bestreiten: jogar (uma partida)
+Bewachen: marcar (um jogador)
+Bezwingen: vencer, derrotar
+Becken: marcar
+Deckung: marcação
+Deckungsarbeit: marcação, cobertura, trabalho defensivo
+Doppelpass: troca de passes curtos
+Dribbeln: drible
+Eck: local para cobrar escanteio
+Ecke, Eckball: cobrar escanteio
+Eckfahne: bandeira de escanteio
+Eckstoß: escanteio
+Ehrentreffer: gol de consolação
+Eigentor: gol contra Einköpfen: cabecear
+Einstand: estreia
+Einwechseln: enviar um jogador substituto
+Einwechslung: substituição
+Einwerfen: cobrar lateral
+Einwurf: lateral
+Einzelaktion: jogada individual
+Elfmeter, Strafstoß: pênalti
+Elfmeterpunkt: marca do pênalti
+Elfmeterschießen: chutar pra fora (pênalti)
+Endrundenteilnehmer, Finalist: finalista
+Endspiel, Finale: final
+Endstand: placar final
+Entlassen: demitir
+Erkämpfen (sich den Ball erkämpfen): ganhar (a bola)
+Eröffungsspiel: partida de abertura
+Ersatztorwart: goleiro reserva
+Europameister: campeão europeu
+Europameisterschaft: Campeonato Europeu
+Fahne: bandeira (do bandeirinha)
+Fallrückzieher: chute de bicicleta Faustabwehr: defesa com o punho
+Fehlpass: passe errado
+Feldverweis, Platzverweis: expulsão
+Fernschuss: chute a gol feito à longa distância
+Flanke: cruzamento
+Flanken: cruzar
+Flugbahn: trajetória (da bola)
+Flügelwechsel: troca de lado (feita pelos pontas)
+Flugkopfball: mergulho de cabeça
+Foul, Foulspiel: falta
+Foulreiches Spiel: jogo sujo
+Freistoß: chute livre
+Freundschaftsspiel: amistoso
+Führung: liderança
+Fußarbeit: drible (trabalho de pés)
+Fußball: futebol
+Fußballer, Fußballspieler, Kicker: jogador de futebol
+Fußballplatz: campo de futebol
+Fußballverein: futebol clube
+Gastgeber: anfitrião
+Gefährliches Spiel: jogada perigosa
+Gegner, gegnerische Mannschaft: oponente, time adversário
+Gestrecktes Bein: pé para cima (falta)
+Glückssträhne: golpe de sorte
+Grätsche: corte/carrinho
+Hackentrick: toque de calcanhar
+Halbfinale: semifinal
+Halbzeit (erste/zweite): tempo (primeiro/segundo)
+Halbzeit, Pause: intervalo
+Hälfte, Spielhälfte: meio do campo
+Handspiel: mão na bola
+Heber: lançamento
+Heimsieg: vitória em casa
+Heimspiel: jogo em casa
+Herauslaufen: fora do gol (goleiro)
+Hinrunde, Hinspiel: jogo de ida
+Hinten: recuar (defesa)
+Holz: trave
+Kader: equipe
+Karte (gelbe/rote): cartão (amarelo/vermelho)
+Kassieren: conceder (gols)
+Konditionsmangel: falta de preparo físico
+Konter, Gegenzug: contra-ataque
+Kontermannschaft: equipe que contra-ataca
+Kopfball: cabeceio
+Kopfballtorpedo: mergulho de cabeça
+Köpfen: cabecear
+Länderspiel: partida internacional
+Latte, Querlatte: trave
+Libero: líbero
+Linienrichter: atacante
+Lokalderby: clássico local
+Lüpfen: fazer um lançamento
+Manndeckung: marcação homem a homem
+Mannschaft: time
+Mannschaftsführer, Spielführer: capitão
+Mauer: barreira (de falta)
+Mitspieler, Mannschaftskamerad: colega de time
+Mittelfeld: meio-campo
+Mittelkreis: círculo central
+Mittellinie: linha central
+Mittelstürmer: centroavante
+Nachholspiel: partida remarcada
+Nachspielzeit: acréscimo (tempo extra)
+Nationalelf, Nationalmannschaft: seleção nacional
+Nationalspieler: jogador da seleção
+Niederlage: derrota
+Notbremse ziehen: cometer uma falta tática
+Parade: defesa (goleiro)
+die Pass: passe
+Pfostenschuss: chutar na trave
+Pokal: copa
+Pokalendspiel: final de copa
+Pokalspiel: jogo pela copa
+Punktspiel: partida de campeonato
+Regelwidrigkeit: infração
+Reguläre Spielzeit: tempo normal da partida
+Rempeln, Anrempeln: empurrar
+Rückrunde, Rückspiel: partida de volta
+Schere: chute de bicicleta
+Schiedsrichter, Schiri, Unparteischer: árbitro
+Schiedsrichterball: bola ao chão (para reiniciar a partida)
+Schießen: chute
+Schinden: jogar para passar o tempo (tentando manter um resultado)
+Schlachtenbummler, Fan: torcedor
+Schlusspfiff: apito final
+Schuss: chute
+Schwalbe: cavar falta
+Seitenlinie: linha lateral
+Sieg: vencer
+Siegtor: gol da vitória
+Sonntagsschuss, Glückstreffer: chute de sorte
+Sperren: expulsar, suspender
+Spielentscheidend: vencedor do jogo
+Spielfeld: campo
+Spielunterbrechung: pausa na partida
+Spielzug: jogada
+Spitzenreiter, Tabellenführer,
+Tabellenerster: líder do campeonato, topo da tabela
+Stadion: estádio
+Stammplatz: titularidade
+Stammspieler: jogador titular
+Standardsituation: jogada de bola parada
+Steilpass: toque
+Stellungsspiel: posicionamento
+Stollenschuh: chuteira
+Strafraum: grande área
+Stürmer: atacante
+Taschendieb: ladrão de bola
+Täuschen: simular
+Tor, Treffer: gol
+Torabschlag: chute a gol
+Torchance: chance de gol
+Tordifferenz: diferença de gol
+Torgefährlich: perigoso em frente ao gol
+Torhüter, Torwart, Schlussmann, Keeper: goleiro
+Torjäger: goleador
+Torlinie: linha do gol
+Torraum: pequena área
+Torschütze: marcador do gol
+Torschützenkönig: artilheiro
+Torverhältnis: média de gols
+Trainer: técnico
+Trainerassistent: treinador assistente
+Transferliste: lista de transferência
+Transfersumme: taxa de transferência
+Trikot: camisa
+Trikotwerbung: propaganda na camisa
+Tunneln: caneta
+Turnier: torneio
+Umkleidekabine, Kabine: vestiário
+Unentschieden, Remis: empate
+Verlängerung: acréscimo
+Verteidiger: zagueiro
+Vizemeister: vice campeão Vorbeischießen: passe longo
+Vorsprung: liderança
+Vorstopper: zagueiro central
+Vorteil: vantagem
+Weitschuss: chute de longo alcance (cobrança de falta)
+Weltmeisterschaft, Fußball-Weltmeisterschaft: Copa do Mundo
+Zumachen (hinten):
+retrancar Zuspiel: passe
+Zweikampf: confronto
