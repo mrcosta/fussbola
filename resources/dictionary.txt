@@ -2,7 +2,7 @@ Abfälschen: desviar a bola
 abgeben (passen): tocar a bola
 Ablöse: taxa de transferência
 Abpfeifen: soprar o apito final
-de Abpfiff: apito final
+der Abpfiff: apito final
 Abprallen: bater na trave
 der Abpraller: rebote
 Abschlag, der Abstoß: tiro de meta
@@ -21,36 +21,48 @@ Absteiger: rebaixado
 der Abstieg: rebaixamento
 Abstiegsgefährdet: perigo de rebaixamento
 Abstiegszone: zona de rebaixamento
-Abwehr: defesa
+die Abwehr: defesa
 Abwehren: defender
 Abwehrfehler: erro defensivo
 Abwehrspieler: zagueiro
 Abwehrstark: defesa forte
+die Achillesferse: o ponto fraco
+das Achtelfinale: as oitavas-de-final
+der Amateur: o amador
+die Ampelkarte: o segundo cartão amarelo (recebido em jogo), seguido de vermelho
+anfeuern: incentivar o time
 Anführen (die Tabelle): líder (tabela)
 Angreifen: atacar
 Angriff: ataque
 Angriffsfussball,
 Offensivfussball: futebol ofensivo
 Angriffsspiel: atacante
-Angstgegner: freguês
-Anhänger: torcedor
-Anpfiff, Anstoß: pontapé inicial
+der Angstgegner: freguês
+der Anhänger: torcedor
+der Anpfiff, der Anstoß: pontapé inicial
+antäuschen: enganar o adversário
 Antrittschnell: ágil
+die Anzeigetafel: o placar
 Armbinde: braçadeira
 Aufholen: saldo de gols
 Aufholjagd: virando o jogo
+der Aufsetzer: o quique da bola
 Aufsteigen: promovido
 Aufsteiger: time promovido
 Aufstellung, Mannschaftsaufstellung: escalação
 Aufstieg: promoção
+aufsteigen: subir
 Auftaktspiel: jogo de estreia
 Aufwärmen: se aquecer
+auf Zeit spielen: retardar o jogo, fazer cera
 Ausgleich, Augleichstor: empatar, gol de empate
 Ausrüstung: uniforme
 Ausscheiden: eliminado
 Außennetz: trave
 Außenstürmer (linker/rechter), Linksaußen, Rechtsaußen: ponta (esquerda/direita), ponta esquerdo e ponta direito
 Außenverteidiger: zagueiro
+der Außenseiter: a zebra
+der Außenstürmer: o ponta
 Austragen: sediar
 Austragungsort, Austragungsstätte: sede
 Ausverkauftes: lotado
@@ -59,40 +71,60 @@ Auswärtsspiel: jogo fora de casa
 Auswärtstor: gol fora de casa
 Auswechseln: alteração
 Auswechselspieler: jogador reserva
-Ball: bola
+die Auswechslung: a substituição
+der Ball: bola
+den Ball annehmen: receber a bola
+den Ball flach halten: receber a bola
 Ballbesitz: posse de bola
+der Balljunge: o gandula
 Ballführung, Ballbeherrschung, Ballannahme: controle de bola
 Bananenflanke, Bananenschuss: trivela
-Bandenwerbung: perímetro de publicidade
+die Bandenwerbung: perímetro de publicidade
+die Bänderdehnung: a distensão de ligamento
 Bank, Reservebank: banco de reservas
 Befreiungsschlag: chute de fora da área
+beidfüßig: quem chuta com os dois pés
+das Bein: perna
 Beinschuss: caneta
 Berufung: convocação para seleção nacional
 Bestreiten: jogar (uma partida)
 Bewachen: marcar (um jogador)
 Bezwingen: vencer, derrotar
 Becken: marcar
-Deckung: marcação
+die Bogenlampe: chapéu
+bolzen: jogar pelada
+der Bolzplatz: campo de várzea, de pelada
+die Chance: chance
+der Coach: técnico
+decken: marcar, cobrir, fazer cobertura, dar cobertura
+die Deckung: a marcação
 Deckungsarbeit: marcação, cobertura, trabalho defensivo
-Doppelpass: troca de passes curtos
-Dribbeln: drible
+das Derby: clássico
+die Diva: o jogador estrela
+Doppelpass: troca de passes curtos, tabelinha
+das Dribbling: o drible
+dribblen: driblar
 Eck: local para cobrar escanteio
 Ecke, Eckball: cobrar escanteio
 Eckfahne: bandeira de escanteio
 Eckstoß: escanteio
 Ehrentreffer: gol de consolação
-Eigentor: gol contra Einköpfen: cabecear
+Eigentor: gol contra
+Einköpfen: cabecear
 Einstand: estreia
 Einwechseln: enviar um jogador substituto
 Einwechslung: substituição
 Einwerfen: cobrar lateral
-Einwurf: lateral
+der Einwurf: lateral
+der Eisenfuß: o zagueiro de roça, o pé de ferro
 Einzelaktion: jogada individual
+Elf, die: o time, a equipe
 Elfmeter, Strafstoß: pênalti
 Elfmeterpunkt: marca do pênalti
 Elfmeterschießen: chutar pra fora (pênalti)
 Endrundenteilnehmer, Finalist: finalista
 Endspiel, Finale: final
+der Ersatzspieler: o jogador reserva
 Endstand: placar final
 Entlassen: demitir
 Erkämpfen (sich den Ball erkämpfen): ganhar (a bola)
@@ -101,20 +133,27 @@ Ersatztorwart: goleiro reserva
 Europameister: campeão europeu
 Europameisterschaft: Campeonato Europeu
 Fahne: bandeira (do bandeirinha)
-Fallrückzieher: chute de bicicleta Faustabwehr: defesa com o punho
+das Fairplay: fairplay
+der Fanblock: setor onde fica a torcida organizada
+Fallrückzieher: chute de bicicleta
+Faustabwehr: defesa com o punho
 Fehlpass: passe errado
 Feldverweis, Platzverweis: expulsão
 Fernschuss: chute a gol feito à longa distância
-Flanke: cruzamento
+die Flanke: o cruzamento
 Flanken: cruzar
 Flugbahn: trajetória (da bola)
 Flügelwechsel: troca de lado (feita pelos pontas)
+das Flügelspiel: o jogo pelas pontas
 Flugkopfball: mergulho de cabeça
 Foul, Foulspiel: falta
+foulen: cometer falta
+sich freilaufen: livrar-se do adversário
 Foulreiches Spiel: jogo sujo
 Freistoß: chute livre
 Freundschaftsspiel: amistoso
 Führung: liderança
+Fünfmeterraum, der: pequena área
 Fußarbeit: drible (trabalho de pés)
 Fußball: futebol
 Fußballer, Fußballspieler, Kicker: jogador de futebol
@@ -123,6 +162,11 @@ Fußballverein: futebol clube
 Gastgeber: anfitrião
 Gefährliches Spiel: jogada perigosa
 Gegner, gegnerische Mannschaft: oponente, time adversário
+die Gelbe Karte: cartão amarelo
+das Gegentor: gol contra
+gesperrt sein: suspenso
+die Glanzparade: grande defesa
+der Goalgetter: artilheiro
 Gestrecktes Bein: pé para cima (falta)
 Glückssträhne: golpe de sorte
 Grätsche: corte/carrinho
@@ -131,116 +175,203 @@ Halbfinale: semifinal
 Halbzeit (erste/zweite): tempo (primeiro/segundo)
 Halbzeit, Pause: intervalo
 Hälfte, Spielhälfte: meio do campo
+der Hammer: chute muito forte de longa distância
+das Handgeld: valor pago por um jogador
 Handspiel: mão na bola
 Heber: lançamento
+der Heimkomplex: a dificuldade de jogar em casa
 Heimsieg: vitória em casa
+die Heimmannschaft: o time da casa, o anfitrião
 Heimspiel: jogo em casa
+das Hinspiel: jogo de ida
+das Heimvorteil: vantagem de jogar em casa
 Herauslaufen: fora do gol (goleiro)
 Hinrunde, Hinspiel: jogo de ida
 Hinten: recuar (defesa)
+die Hintermannschaft: o setor defensivo do time
 Holz: trave
+holzen: jogar duro e sem muita habilidade
 Kader: equipe
 Karte (gelbe/rote): cartão (amarelo/vermelho)
+der Kantersieg: a goleada
 Kassieren: conceder (gols)
+die Kerze: o chutão para cima
+der Kicker, Fußballer: jogador de futebol
+das Knie: knee
 Konditionsmangel: falta de preparo físico
-Konter, Gegenzug: contra-ataque
+der Konter, Gegenzug: o contra-ataque
 Kontermannschaft: equipe que contra-ataca
 Kopfball: cabeceio
 Kopfballtorpedo: mergulho de cabeça
 Köpfen: cabecear
 Länderspiel: partida internacional
-Latte, Querlatte: trave
-Libero: líbero
-Linienrichter: atacante
+die Latte, Querlatte: travessão
+der Legionär: um jogador (da seleção) que atua fora de seu país natal
+der Libero: líbero
+Linienrichter: bandeirinha
+der linke Läufer: meia esquerda
+der Linksaußen: o ponta esquerda
+der Linksfüßler: o jogador canhoto
+lupfen: chapelar
 Lokalderby: clássico local
 Lüpfen: fazer um lançamento
 Manndeckung: marcação homem a homem
-Mannschaft: time
+die Mannschaft: time
+das Maskottchen: o mascote
 Mannschaftsführer, Spielführer: capitão
-Mauer: barreira (de falta)
+die Mauer: barreira (de falta)
+mauern: jogar na retranca
+der Meister: o campeão
+die Meisterschaft: o campeonato
 Mitspieler, Mannschaftskamerad: colega de time
-Mittelfeld: meio-campo
-Mittelkreis: círculo central
+das Mittelfeld: meio-campo
+das Mittelfeldgeplänkel: ficar tocando a bola do meio de campo
+der Mittelkreis: círculo central
 Mittellinie: linha central
 Mittelstürmer: centroavante
+der Naschschuss: o rebote
 Nachholspiel: partida remarcada
-Nachspielzeit: acréscimo (tempo extra)
+die Nachspielzeit: acréscimo (tempo extra)
 Nationalelf, Nationalmannschaft: seleção nacional
 Nationalspieler: jogador da seleção
-Niederlage: derrota
+der Nebenmann: o jogador do lado
+die Niederlage: a derrota
+die Nominierung: a convocação para um jogo
+nominieren: convocar
 Notbremse ziehen: cometer uma falta tática
+der Nullnummer: empate sem gols
+daas Oberhaus: primeira divisão
+der Oberschenkel: a coxa
+die Pause: o intervalo
 Parade: defesa (goleiro)
 die Pass: passe
+die Pfeife: o apito
+der Pfosten: o poste, a trave
+der Platzverweis: a expulsão
+die Prellung: a contusão
+das Pressing: pressão
 Pfostenschuss: chutar na trave
 Pokal: copa
 Pokalendspiel: final de copa
 Pokalspiel: jogo pela copa
 Punktspiel: partida de campeonato
+die Qualifikation: fase de classficação
+der Querpass: passe cruzado
+das Regen: o gramado
+die Raumdeckung: a marcação por zona
 Regelwidrigkeit: infração
 Reguläre Spielzeit: tempo normal da partida
 Rempeln, Anrempeln: empurrar
-Rückrunde, Rückspiel: partida de volta
+die rote Laterne: o último colocado
+die Rückennummer: o número da camisa
+die Rückrunde, Rückspiel: partida de volta
+der Rückstand: a desvantagem no placar
+die Saison: a temporada
 Schere: chute de bicicleta
-Schiedsrichter, Schiri, Unparteischer: árbitro
+die Schiedsrichter, Schiri, Unparteischer: árbitro
+das Schiedsrichtergespann: trio de arbitragem
 Schiedsrichterball: bola ao chão (para reiniciar a partida)
+das Schienbein: canela
+der Schienbeinschoner: caneleira
 Schießen: chute
+schießen: chutar
+schlenzen: dar um passe por cobertura
 Schinden: jogar para passar o tempo (tentando manter um resultado)
 Schlachtenbummler, Fan: torcedor
 Schlusspfiff: apito final
 Schuss: chute
 Schwalbe: cavar falta
+der Sechszehnmeterraum: a grande área
+die Seitenwahl: a escolha do lado do campo
 Seitenlinie: linha lateral
-Sieg: vencer
+sieg: vencer
+der Sieg: vitória
+das Solo: jogada individual
 Siegtor: gol da vitória
 Sonntagsschuss, Glückstreffer: chute de sorte
+der Spannschuss: o chute com o peito do pé
 Sperren: expulsar, suspender
 Spielentscheidend: vencedor do jogo
-Spielfeld: campo
+das Spielfeld: campo
+der Spielmacher: armador, volante
+der Spielstand: o placar
+der Spieltag: rodada
 Spielunterbrechung: pausa na partida
 Spielzug: jogada
-Spitzenreiter, Tabellenführer,
-Tabellenerster: líder do campeonato, topo da tabela
-Stadion: estádio
+Spitzenreiter, Tabellenführer, Tabellenerster: líder do campeonato, topo da tabela
+das Spitzenspiel: jogo pela liderança
+die Sportschau: o noticiário esportivo
+das Stadion: estádio
 Stammplatz: titularidade
-Stammspieler: jogador titular
+der Stammspieler: jogador titular
+der Stolperer: o perna de pau
+der Strafstoß: penâlti, penalidade máxima
+die Stutzen: as meias, os meiões
 Standardsituation: jogada de bola parada
 Steilpass: toque
 Stellungsspiel: posicionamento
 Stollenschuh: chuteira
 Strafraum: grande área
 Stürmer: atacante
+das Tackling: entrada dura
+tackeln: entrar duramente
+die Taktik: a tática
 Taschendieb: ladrão de bola
 Täuschen: simular
-Tor, Treffer: gol
+das Tor, Treffer: gol
 Torabschlag: chute a gol
 Torchance: chance de gol
 Tordifferenz: diferença de gol
 Torgefährlich: perigoso em frente ao gol
 Torhüter, Torwart, Schlussmann, Keeper: goleiro
-Torjäger: goleador
+der Torjäger: goleador
 Torlinie: linha do gol
-Torraum: pequena área
-Torschütze: marcador do gol
+der Torraum: pequena área
+der Torwart: o goleiro
+Trainerentlassung: a demissão do treinador
+der Treffer: o gol
+treffen: marcar gol
+der Torschütze: marcador do gol
 Torschützenkönig: artilheiro
 Torverhältnis: média de gols
 Trainer: técnico
 Trainerassistent: treinador assistente
 Transferliste: lista de transferência
 Transfersumme: taxa de transferência
-Trikot: camisa
+das Trikot: camisa
 Trikotwerbung: propaganda na camisa
+die Trophäe: o troféu
 Tunneln: caneta
 Turnier: torneio
+übersteigen: pedalar
+der Underdog: o azarão, a zebra
+das Unentschieden: o empate
 Umkleidekabine, Kabine: vestiário
 Unentschieden, Remis: empate
+die Verlängerung: a prorrogação
+die Verletzung: a contusão
 Verlängerung: acréscimo
 Verteidiger: zagueiro
+die Verwarnung: a advertência
+das Viertelfinale: as quartas de final
 Vizemeister: vice campeão Vorbeischießen: passe longo
-Vorsprung: liderança
-Vorstopper: zagueiro central
+die Vorarbeit: a jogada que normalmente leva a um gol
+die Vorlage: o lançamento longo (preparando um gol)
+die Vorrunde: primeira fase de uma competição
+die Vorsprung: liderança no placar
+der Vorstopper: zagueiro central
 Vorteil: vantagem
 Weitschuss: chute de longo alcance (cobrança de falta)
 Weltmeisterschaft, Fußball-Weltmeisterschaft: Copa do Mundo
-Zumachen (hinten):
-retrancar Zuspiel: passe
+der Winkelschuss: o chute no ângulo, na gaveta
+der Youngster: a revelação
+zaubern: encantar, jogar com muita habilidade
+zaudern: vacilar
+die Zerrung: a distensão
+die Zuschauerränge: a arquibancada
+Zumachen (hinten): retrancar
+Zuspiel: passe
 Zweikampf: confronto
+
+TODO: vocabulário de objetos do treino
+TODO: vocabulário mais elaborado de posições de campo: atacante, lateral
